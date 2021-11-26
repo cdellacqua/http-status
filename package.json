@@ -2,7 +2,7 @@
 	"name": "@cdellacqua/http-status",
 	"camelCaseName": "httpStatus",
 	"description": "HTTP Status TypeScript enums",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"type": "module",
 	"types": "dist/index.d.ts",
 	"main": "dist/index.cjs.js",
