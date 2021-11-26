@@ -4,7 +4,7 @@
 
 `npm install @cdellacqua/http-status`
 
-[Documentation](./docs/README.md)
+[Documentation](https://github.com/cdellacqua/http-status.js/blob/main/docs/README.md)
 
 ## Highlights
 
@@ -24,7 +24,7 @@ const dispatchTable = {
 
 fetch('/some-api.json').then((response) => {
 	if (response.status in dispatchTable) {
-		dispatchTable[response.status]?.(response);
+		dispatchTable[response.status](response);
 	} else {
 		alert('unhandled status! ' + response.status);
 	}

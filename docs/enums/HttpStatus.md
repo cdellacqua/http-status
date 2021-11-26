@@ -78,7 +78,7 @@
 
 #### Defined in
 
-[index.ts:8](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L8)
+[index.ts:8](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L8)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[index.ts:14](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L14)
+[index.ts:14](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L14)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[index.ts:59](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L59)
+[index.ts:59](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L59)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[index.ts:26](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L26)
+[index.ts:26](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L26)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[index.ts:55](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L55)
+[index.ts:55](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L55)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[index.ts:35](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L35)
+[index.ts:35](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L35)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[index.ts:53](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L53)
+[index.ts:53](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L53)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[index.ts:2](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L2)
+[index.ts:2](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L2)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-[index.ts:7](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L7)
+[index.ts:7](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L7)
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 #### Defined in
 
-[index.ts:43](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L43)
+[index.ts:43](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L43)
 
 ___
 
@@ -178,7 +178,7 @@ ___
 
 #### Defined in
 
-[index.ts:48](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L48)
+[index.ts:48](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L48)
 
 ___
 
@@ -188,7 +188,7 @@ ___
 
 #### Defined in
 
-[index.ts:29](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L29)
+[index.ts:29](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L29)
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 #### Defined in
 
-[index.ts:19](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L19)
+[index.ts:19](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L19)
 
 ___
 
@@ -208,7 +208,7 @@ ___
 
 #### Defined in
 
-[index.ts:61](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L61)
+[index.ts:61](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L61)
 
 ___
 
@@ -218,7 +218,7 @@ ___
 
 #### Defined in
 
-[index.ts:36](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L36)
+[index.ts:36](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L36)
 
 ___
 
@@ -228,7 +228,7 @@ ___
 
 #### Defined in
 
-[index.ts:62](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L62)
+[index.ts:62](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L62)
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 #### Defined in
 
-[index.ts:15](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L15)
+[index.ts:15](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L15)
 
 ___
 
@@ -248,7 +248,7 @@ ___
 
 #### Defined in
 
-[index.ts:44](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L44)
+[index.ts:44](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L44)
 
 ___
 
@@ -258,7 +258,7 @@ ___
 
 #### Defined in
 
-[index.ts:64](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L64)
+[index.ts:64](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L64)
 
 ___
 
@@ -268,7 +268,7 @@ ___
 
 #### Defined in
 
-[index.ts:57](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L57)
+[index.ts:57](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L57)
 
 ___
 
@@ -278,7 +278,7 @@ ___
 
 #### Defined in
 
-[index.ts:37](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L37)
+[index.ts:37](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L37)
 
 ___
 
@@ -288,7 +288,7 @@ ___
 
 #### Defined in
 
-[index.ts:47](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L47)
+[index.ts:47](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L47)
 
 ___
 
@@ -298,7 +298,7 @@ ___
 
 #### Defined in
 
-[index.ts:65](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L65)
+[index.ts:65](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L65)
 
 ___
 
@@ -308,7 +308,7 @@ ___
 
 #### Defined in
 
-[index.ts:31](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L31)
+[index.ts:31](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L31)
 
 ___
 
@@ -318,7 +318,7 @@ ___
 
 #### Defined in
 
-[index.ts:45](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L45)
+[index.ts:45](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L45)
 
 ___
 
@@ -328,7 +328,7 @@ ___
 
 #### Defined in
 
-[index.ts:18](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L18)
+[index.ts:18](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L18)
 
 ___
 
@@ -338,7 +338,7 @@ ___
 
 #### Defined in
 
-[index.ts:13](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L13)
+[index.ts:13](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L13)
 
 ___
 
@@ -348,7 +348,7 @@ ___
 
 #### Defined in
 
-[index.ts:17](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L17)
+[index.ts:17](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L17)
 
 ___
 
@@ -358,7 +358,7 @@ ___
 
 #### Defined in
 
-[index.ts:67](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L67)
+[index.ts:67](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L67)
 
 ___
 
@@ -368,7 +368,7 @@ ___
 
 #### Defined in
 
-[index.ts:68](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L68)
+[index.ts:68](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L68)
 
 ___
 
@@ -378,7 +378,7 @@ ___
 
 #### Defined in
 
-[index.ts:10](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L10)
+[index.ts:10](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L10)
 
 ___
 
@@ -388,7 +388,7 @@ ___
 
 #### Defined in
 
-[index.ts:9](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L9)
+[index.ts:9](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L9)
 
 ___
 
@@ -398,7 +398,7 @@ ___
 
 #### Defined in
 
-[index.ts:32](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L32)
+[index.ts:32](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L32)
 
 ___
 
@@ -408,7 +408,7 @@ ___
 
 #### Defined in
 
-[index.ts:66](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L66)
+[index.ts:66](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L66)
 
 ___
 
@@ -418,7 +418,7 @@ ___
 
 #### Defined in
 
-[index.ts:30](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L30)
+[index.ts:30](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L30)
 
 ___
 
@@ -428,7 +428,7 @@ ___
 
 #### Defined in
 
-[index.ts:58](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L58)
+[index.ts:58](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L58)
 
 ___
 
@@ -438,7 +438,7 @@ ___
 
 #### Defined in
 
-[index.ts:21](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L21)
+[index.ts:21](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L21)
 
 ___
 
@@ -448,7 +448,7 @@ ___
 
 #### Defined in
 
-[index.ts:6](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L6)
+[index.ts:6](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L6)
 
 ___
 
@@ -458,7 +458,7 @@ ___
 
 #### Defined in
 
-[index.ts:12](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L12)
+[index.ts:12](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L12)
 
 ___
 
@@ -468,7 +468,7 @@ ___
 
 #### Defined in
 
-[index.ts:39](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L39)
+[index.ts:39](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L39)
 
 ___
 
@@ -478,7 +478,7 @@ ___
 
 #### Defined in
 
-[index.ts:28](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L28)
+[index.ts:28](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L28)
 
 ___
 
@@ -488,7 +488,7 @@ ___
 
 #### Defined in
 
-[index.ts:24](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L24)
+[index.ts:24](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L24)
 
 ___
 
@@ -498,7 +498,7 @@ ___
 
 #### Defined in
 
-[index.ts:38](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L38)
+[index.ts:38](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L38)
 
 ___
 
@@ -508,7 +508,7 @@ ___
 
 #### Defined in
 
-[index.ts:50](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L50)
+[index.ts:50](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L50)
 
 ___
 
@@ -518,7 +518,7 @@ ___
 
 #### Defined in
 
-[index.ts:4](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L4)
+[index.ts:4](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L4)
 
 ___
 
@@ -528,7 +528,7 @@ ___
 
 #### Defined in
 
-[index.ts:33](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L33)
+[index.ts:33](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L33)
 
 ___
 
@@ -538,7 +538,7 @@ ___
 
 #### Defined in
 
-[index.ts:52](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L52)
+[index.ts:52](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L52)
 
 ___
 
@@ -548,7 +548,7 @@ ___
 
 #### Defined in
 
-[index.ts:34](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L34)
+[index.ts:34](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L34)
 
 ___
 
@@ -558,7 +558,7 @@ ___
 
 #### Defined in
 
-[index.ts:40](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L40)
+[index.ts:40](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L40)
 
 ___
 
@@ -568,7 +568,7 @@ ___
 
 #### Defined in
 
-[index.ts:42](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L42)
+[index.ts:42](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L42)
 
 ___
 
@@ -578,7 +578,7 @@ ___
 
 #### Defined in
 
-[index.ts:11](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L11)
+[index.ts:11](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L11)
 
 ___
 
@@ -588,7 +588,7 @@ ___
 
 #### Defined in
 
-[index.ts:20](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L20)
+[index.ts:20](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L20)
 
 ___
 
@@ -598,7 +598,7 @@ ___
 
 #### Defined in
 
-[index.ts:60](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L60)
+[index.ts:60](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L60)
 
 ___
 
@@ -608,7 +608,7 @@ ___
 
 #### Defined in
 
-[index.ts:3](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L3)
+[index.ts:3](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L3)
 
 ___
 
@@ -618,7 +618,7 @@ ___
 
 #### Defined in
 
-[index.ts:23](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L23)
+[index.ts:23](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L23)
 
 ___
 
@@ -628,7 +628,7 @@ ___
 
 #### Defined in
 
-[index.ts:51](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L51)
+[index.ts:51](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L51)
 
 ___
 
@@ -638,7 +638,7 @@ ___
 
 #### Defined in
 
-[index.ts:27](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L27)
+[index.ts:27](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L27)
 
 ___
 
@@ -648,7 +648,7 @@ ___
 
 #### Defined in
 
-[index.ts:54](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L54)
+[index.ts:54](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L54)
 
 ___
 
@@ -658,7 +658,7 @@ ___
 
 #### Defined in
 
-[index.ts:46](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L46)
+[index.ts:46](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L46)
 
 ___
 
@@ -668,7 +668,7 @@ ___
 
 #### Defined in
 
-[index.ts:41](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L41)
+[index.ts:41](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L41)
 
 ___
 
@@ -678,7 +678,7 @@ ___
 
 #### Defined in
 
-[index.ts:49](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L49)
+[index.ts:49](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L49)
 
 ___
 
@@ -688,7 +688,7 @@ ___
 
 #### Defined in
 
-[index.ts:22](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L22)
+[index.ts:22](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L22)
 
 ___
 
@@ -698,4 +698,4 @@ ___
 
 #### Defined in
 
-[index.ts:63](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L63)
+[index.ts:63](https://github.com/cdellacqua/http-status.js/blob/c1ec9ac/src/lib/index.ts#L63)
