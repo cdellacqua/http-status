@@ -10,7 +10,7 @@ const dispatchTable: {[key in HttpStatus]?: (response: Response) => unknown} = {
 
 fetch('/some-api.json').then((response) => {
 	if (response.status in dispatchTable) {
-		dispatchTable[response.status as HttpStatus]!(response);
+		dispatchTable[response.status as HttpStatus]?.(response);
 	} else {
 		alert('unhandled status! ' + response.status);
 	}
