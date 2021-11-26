@@ -4,7 +4,7 @@
 
 `npm install @cdellacqua/http-status`
 
-[Documentation](./blob/main/docs/README.md)
+[Documentation](./docs/README.md)
 
 ## Highlights
 

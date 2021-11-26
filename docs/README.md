@@ -93,4 +93,4 @@
 
 #### Defined in
 
-[index.ts:71](https://github.com/cdellacqua/http-status.js/blob/efe1434/src/lib/index.ts#L71)
+[index.ts:71](https://github.com/cdellacqua/http-status.js/blob/5888fb1/src/lib/index.ts#L71)
