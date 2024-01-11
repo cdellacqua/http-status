@@ -22,10 +22,11 @@
 	},
 	"homepage": "git@github.com:cdellacqua/http-status.js",
 	"files": [
-		"dist/**/*"
+		"dist"
 	],
 	"exports": {
 		".": {
+      "types": "./dist/index.d.ts",
 			"import": "./dist/index.es.js",
 			"require": "./dist/index.cjs"
 		},
